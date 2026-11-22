@@ -262,3 +262,12 @@ Star the repo if you find it useful!
 **Made for speech AI engineers, audio researchers, voice-agent builders, and open-source developers.**  
 
 Let's make speech recognition, synthesis, and conversational voice AI faster, multilingual, and open to everyone.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Speech-Recognition-Synthesis-Voice-AI_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Speech-Recognition-Synthesis-Voice-AI_growth.svg">
+  </picture>
+</a>
