@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -71,9 +71,9 @@ Below is an enterprise comparison of premier hosted Speech Recognition (STT), Sp
 
 Explore the most impactful open-source speech recognition engines, neural TTS architectures, voice conversion toolkits, and real-time voice agent frameworks. 
 
-Every repository below features a live star badge linking directly to its GitHub stargazers page, sorted by **Star Count (descending)**.
+Every repository below features a live Stars_Badge linking directly to its GitHub stargazers page, sorted by **Stars_Count (descending)**.
 
-| Repository | Focus & Primary Architecture | GitHub Stars | License |
+| Repository | Focus & Primary Architecture | GitHub_Stars | License |
 | :--- | :--- | :---: | :---: |
 | **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** | 🎙️ All-in-one desktop AI voice studio and workbench integrating leading TTS models, voice cloning engines, audio enhancement, and batch generation | [![Stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=social&color=white)](https://github.com/debpalash/VoiceStudio/stargazers) | GPL-3.0 |
 | **[OpenAI Whisper](https://github.com/openai/whisper)** | 🎯 Foundational Transformer ASR and speech translation model trained on 680,000+ hours of multilingual and multitask supervised audio | [![Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers) | MIT |
@@ -198,3 +198,12 @@ If you find this voice AI ecosystem guide valuable for your research, company, o
 ##  Star History
 #[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI&type=date&legend=top-left)`
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI&type=date&legend=top-left)`
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Speech-Recognition-Synthesis-Voice-AI&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Speech-Recognition-Synthesis-Voice-AI_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Speech-Recognition-Synthesis-Voice-AI_growth.svg">
+  </picture>
+</a>
